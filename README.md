@@ -1,2 +1,1 @@
-# prml_projects
-some projects on pattern recognition and machine learning course
+Pattern Recognition and Machine Learning (ICE1-7102) courses' projects.
